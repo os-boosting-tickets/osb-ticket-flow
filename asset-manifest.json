@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/osb-ticket-flow/static/css/main.cf0ac8f1.css",
-    "main.js": "/osb-ticket-flow/static/js/main.12ef20f0.js",
+    "main.js": "/osb-ticket-flow/static/js/main.feb9fde7.js",
     "static/js/453.f2cc8406.chunk.js": "/osb-ticket-flow/static/js/453.f2cc8406.chunk.js",
     "static/media/osBoosting.png": "/osb-ticket-flow/static/media/osBoosting.1e1396ab6bd0b3a38687.png",
     "index.html": "/osb-ticket-flow/index.html",
     "main.cf0ac8f1.css.map": "/osb-ticket-flow/static/css/main.cf0ac8f1.css.map",
-    "main.12ef20f0.js.map": "/osb-ticket-flow/static/js/main.12ef20f0.js.map",
+    "main.feb9fde7.js.map": "/osb-ticket-flow/static/js/main.feb9fde7.js.map",
     "453.f2cc8406.chunk.js.map": "/osb-ticket-flow/static/js/453.f2cc8406.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf0ac8f1.css",
-    "static/js/main.12ef20f0.js"
+    "static/js/main.feb9fde7.js"
   ]
 }
